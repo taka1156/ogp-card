@@ -29,5 +29,5 @@
     "vite-plugin-dts": "^5.0.0",
     "wrangler": "4.129.0"
   },
-  "packageManager": "yarn@4.18.0"
+  "packageManager": "yarn@4.19.0"
 }
